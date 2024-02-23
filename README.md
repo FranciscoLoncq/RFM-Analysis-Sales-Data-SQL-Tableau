@@ -2,7 +2,7 @@
 
 ## Overview:
 
-In this project, we embark on a comprehensive exploration of a sales dataset to extract valuable insights into customers' past purchase behavior using data from the source [Kaggle: Sample Sales Data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data) The primary goal is to generate actionable analytics that can empower the sales team to make informed decisions. The analysis spans from initial data inspection to advanced analytics, covering a wide range of SQL techniques such as basic queries, subqueries, Common Table Expressions (CTEs), aggregate functions, and window functions. At my current analyst role, I am regulary asked to provide similar reports to the sales team in order for them to take acton based on the developement of sales of our different products and this porject allows me to showcase some of the skills I employ at the moment.
+In this project, we embark on a comprehensive exploration of a sales dataset to extract valuable insights into customers' past purchase behavior using data from the source [Kaggle: Sample Sales Data].(https://www.kaggle.com/datasets/kyanyoga/sample-sales-data) The primary goal is to generate actionable analytics that can empower the sales team to make informed decisions. The analysis spans from initial data inspection to advanced analytics, covering a wide range of SQL techniques such as basic queries, subqueries, Common Table Expressions (CTEs), aggregate functions, and window functions. At my current analyst role, I am regulary asked to provide similar reports to the sales team in order for them to take acton based on the developement of sales of our different products and this porject allows me to showcase some of the skills I employ at the moment.
 
 ## Analysis
 
