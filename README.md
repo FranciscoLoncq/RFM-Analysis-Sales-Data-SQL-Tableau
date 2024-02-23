@@ -19,13 +19,11 @@ Finally, the project explores product associations by identifying orders with tw
 Throughout the project, various SQL skills are employed, ranging from basic queries to handling complex problems using subqueries, CTEs, aggregate functions, and window functions. The project emphasizes the practical application of these skills in a real-world context, mirroring scenarios where similar reports are generated to facilitate data-driven decision-making. Additionally, a tableau dashboard is created in order to display some of the key features of the analysis in a much more visual and appealing way to the stake holders.
 
 ## Links:
-### Sample Sales Data (CSV)
-[Dataset: Covid Deaths](https://github.com/FranciscoLoncq/Covid-19-Data-Exploration-SQL/blob/main/CovidDeaths.rar)
-
-[Dataset: Covid Vaccinations](https://github.com/FranciscoLoncq/Covid-19-Data-Exploration-SQL/blob/main/CovidVaccinations.rar)
+### Sample Sales Data (Kaggle)
+[Dataset: Sample Sales Data](https://github.com/FranciscoLoncq/RFM-Analysis-Sales-Data-SQL-Tableau/blob/main/sales_data_sample.csv)
 
 ### RFM Analysis SQL Query
-[Data Exploration Query](https://github.com/FranciscoLoncq/Covid-19-Data-Exploration-SQL/blob/main/SQL_Data_Exploration_Project_Covid-19.sql)
+[SQL Analysis Query](https://github.com/FranciscoLoncq/RFM-Analysis-Sales-Data-SQL-Tableau/blob/main/SalesData%20Query.sql)
 
 ### Credits
 Angelina Frimpong
