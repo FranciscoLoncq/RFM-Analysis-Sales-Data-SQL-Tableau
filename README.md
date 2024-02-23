@@ -25,5 +25,10 @@ Throughout the project, various SQL skills are employed, ranging from basic quer
 ### RFM Analysis SQL Query
 [SQL Analysis Query](https://github.com/FranciscoLoncq/RFM-Analysis-Sales-Data-SQL-Tableau/blob/main/SalesData%20Query.sql)
 
+### Tableau
+[Sales Dashboard 1](https://public.tableau.com/app/profile/francisco.loncq/viz/Kaggle_Sales_Dashboard_1/SalesDashboard)
+
+[Sales Dashboard 2](https://public.tableau.com/app/profile/francisco.loncq/viz/Kaggle_Sales_Dashboard_2/SalesDashboard2)
+
 ### Credits
 Angelina Frimpong
